@@ -566,7 +566,7 @@ body.mobile-view .mobile-panel {
     left: 50%;
     transform: translate(-50%, 110%);
     bottom: 0;
-    width: min(100%, 420px);
+    width: min(100%, 370px);
     background: rgba(13, 16, 24, 0.96);
     backdrop-filter: blur(28px);
     border-radius: 28px 28px 0 0;
